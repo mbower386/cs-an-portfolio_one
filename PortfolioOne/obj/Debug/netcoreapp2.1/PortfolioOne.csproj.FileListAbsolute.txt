@@ -1,0 +1,14 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/bin/Debug/netcoreapp2.1/PortfolioOne.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/bin/Debug/netcoreapp2.1/PortfolioOne.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/bin/Debug/netcoreapp2.1/PortfolioOne.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/bin/Debug/netcoreapp2.1/PortfolioOne.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/bin/Debug/netcoreapp2.1/PortfolioOne.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.RazorAssemblyInfo.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.RazorAssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.RazorTargetAssemblyInfo.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-portfolio_one/PortfolioOne/obj/Debug/netcoreapp2.1/PortfolioOne.pdb
